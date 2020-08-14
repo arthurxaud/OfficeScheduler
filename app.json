@@ -1,0 +1,12 @@
+{
+  "name": "OfficeScheduler",
+  "displayName": "OfficeScheduler",
+  "expo": {
+    "name": "OfficeScheduler",
+    "slug": "OfficeScheduler",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
