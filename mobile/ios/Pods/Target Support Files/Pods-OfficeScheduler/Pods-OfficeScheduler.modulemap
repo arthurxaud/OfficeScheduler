@@ -1,0 +1,6 @@
+module Pods_OfficeScheduler {
+  umbrella header "Pods-OfficeScheduler-umbrella.h"
+
+  export *
+  module * { export * }
+}
